@@ -1,4 +1,4 @@
--- Portfolio Project- Exploratory Data Analysis
+-- Portfolio Project - Exploratory Data Analysis
 
 -- E-commerce Dataset
 -- https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset/data
