@@ -3,7 +3,7 @@
 -- Netflix Dataset
 -- https://www.kaggle.com/datasets/shivamb/netflix-shows
 
---View Dataset
+-- View Dataset
 
 SELECT * FROM [dbo].[netflix_titles]
 
