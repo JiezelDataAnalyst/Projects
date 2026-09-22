@@ -1,6 +1,6 @@
 -- Exploratory Data Analysis
 
---Pizza Sales 
+-- Pizza Sales 
 
 SELECT*
 FROM [dbo].[pizza_sales];
